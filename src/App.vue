@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <div class="box"></div>
   </div>
 </template>
 
@@ -10,6 +10,9 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="less">
+.box{
+  width: 100px;
+  height: 100px;
+}
 </style>
